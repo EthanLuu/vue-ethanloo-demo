@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "noImplicitAny": false,
     "target": "es5",
     "module": "esnext",
     "strict": true,
@@ -35,5 +36,6 @@
   ],
   "exclude": [
     "node_modules"
-  ]
+  ],
+  
 }
